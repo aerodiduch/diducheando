@@ -2,7 +2,8 @@
 
 Recursos usados en el canal
 
- - [Video Wireguard VPN](https://github.com/aerodiduch/diducheando/tree/master/wireguard-vpn)
+[Creá tu propia VPN con WIREGUARD, FÁCIL y RÁPIDO](https://youtu.be/r9B8tldBUfs)
+ - [Levantar Wireguard VPN](https://github.com/aerodiduch/diducheando/tree/master/wireguard-vpn)
 
 [Pendiente]
 
